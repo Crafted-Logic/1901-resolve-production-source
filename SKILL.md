@@ -371,7 +371,7 @@ The folder holds one artwork file. Nothing ties it to the human-approved artwork
    "fact": "The render stage consumes the human-approved artwork master file recorded for the design; derived print exports are not the render source."
   },
   {
-   "source": "Drive folder 1901-003 Artwork (folder id 1AbCdEfGhIjKlMnOpQrStUvWxYz012345)",
+   "source": "Drive folder 1901-011 Artwork (folder id 1FoLdEr011000000000000000000000000)",
    "fact": "1901-011_final.png (id 1FILE011final0000000000000000000004): only artwork file in the folder art_path names; no queue note, approval record, or governing reference ties it to the human-approved artwork"
   }
  ],
@@ -411,7 +411,7 @@ The note names what was approved, but the file `art_path` points at is gone and 
    "fact": "The render stage consumes the human-approved artwork master file recorded for the design; derived print exports are not the render source."
   },
   {
-   "source": "Drive folder 1901-003 Artwork (folder id 1AbCdEfGhIjKlMnOpQrStUvWxYz012345)",
+   "source": "Drive folder 1901-014 Artwork (folder id 1FoLdEr014000000000000000000000000)",
    "fact": "(art_path target) (id 1FILE014gone0000000000000000000005): the file id named by art_path does not exist or is not visible; the containing folder holds no artwork file for 1901-014"
   }
  ],
